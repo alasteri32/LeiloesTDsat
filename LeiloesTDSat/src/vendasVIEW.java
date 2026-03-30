@@ -21,6 +21,7 @@ public class vendasVIEW extends javax.swing.JFrame {
      */
     public vendasVIEW() {
         initComponents();
+        listarValoresVendidos();
     }
 public void listarValoresVendidos(){
     
